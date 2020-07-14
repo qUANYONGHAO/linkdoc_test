@@ -1,0 +1,1 @@
+# linkdoc_test
